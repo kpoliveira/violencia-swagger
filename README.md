@@ -1,7 +1,26 @@
-# violencia-swagger-docs
-API com nodeJS + Swagger para exibição de dados sobre violência em alguns municípios do estado de Pernambuco.
+# Mapa de Violência Municipal - API
 
-<h1 align="center"> Guia de execução </h1>
-- 1. Abrir o terminal na pasta do projeto
-- 2. digitar "npm start"
-- 3. Acessar "http://localhost:5000/api-docs/"
+Esta é uma API construída em NODE.JS + Express + Swagger-JSDocs para exibição de dados sobre violência doméstica.
+
+
+
+## Authors
+
+- [@katherinepeterson](https://www.github.com/octokatherine)
+
+  
+## Guia de execução
+
+- Abrir o terminal na pasta do projeto
+- digitar "npm start"
+- Acessar "http://localhost:5000/api-docs/"
+
+  
+## Usage/Examples
+
+```javascript
+npm start
+http://localhost:5000/api-docs/
+```
+
+  
