@@ -9,7 +9,7 @@ const app = express();
 const swaggerOptions = {
     swaggerDefinition: {
         info: {
-            title: 'Teste de API',
+            title: 'Dados sobre Violência em Municípios de Pernambuco.',
             version: '1.0.0'
         }
     },
