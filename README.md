@@ -3,11 +3,6 @@
 Esta é uma API construída em NODE.JS + Express + Swagger-JSDocs para exibição de dados sobre violência doméstica.
 
 
-
-## Authors
-
-- [@katherinepeterson](https://www.github.com/octokatherine)
-
   
 ## Guia de execução
 
